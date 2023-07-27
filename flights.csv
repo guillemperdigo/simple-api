@@ -1,0 +1,4 @@
+id,airline,arrival_airport,arrival_time
+1,Delta,New York JFK,2023-07-26 10:00:00
+2,United,Los Angeles LAX,2023-07-26 12:30:00
+3,American,Chicago O'Hare,2023-07-26 15:00:00
